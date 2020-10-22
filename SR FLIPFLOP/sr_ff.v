@@ -1,3 +1,6 @@
+// https://edaplayground.com/x/6viX#
+
+
 module sr_ff(s,r,clk,reset,q,q_bar);
   input s,r,reset,clk;
   output q,q_bar;
